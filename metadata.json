@@ -1,0 +1,8 @@
+{
+  "name": "Devraj Dental Clinic Website",
+  "description": "A modern, responsive platform for Devraj Dental Clinic featuring seamless WhatsApp appointment booking and comprehensive professional dental services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

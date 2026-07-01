@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devraj-dental-clinic.example.com/sitemap.xml
