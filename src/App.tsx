@@ -11,6 +11,7 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { TrustBadgeSection } from "./components/TrustBadgeSection";
 import { Gallery } from "./components/Gallery";
+import { WhatsAppFAB } from "./components/WhatsAppFAB";
 
 export default function App() {
   const handleScrollToAppointment = () => {
@@ -60,6 +61,9 @@ export default function App() {
 
       {/* Structured Footer Map & Social Handles */}
       <Footer />
+
+      {/* Floating Action Button (FAB) for WhatsApp quick support */}
+      <WhatsAppFAB />
     </div>
   );
 }
